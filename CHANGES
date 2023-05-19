@@ -1,0 +1,7 @@
+18.5 Physical keyboard works now
+     but delete still don't work right.
+     It deletes only current line.
+     diff with my code onSelectDelete and on youtube/github seems to be same
+
+29.4 Entering letter and Enter and delete works
+     but delete won't work in previious line
